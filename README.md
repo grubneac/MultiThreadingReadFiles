@@ -1,4 +1,4 @@
-# Getting Started
+# Run StringBoot application
 
 ### Postman requests
 
